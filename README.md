@@ -8,3 +8,4 @@ put all your training images in the `dataset` folder
 
 Use the resize_image.ipynb if you want to optimize your disk space.
 
+Not working yet
